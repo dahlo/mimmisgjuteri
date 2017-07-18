@@ -10,6 +10,12 @@ title: 'Mimmis gjuteri - Café & bar'
 # more settings
 ########
 
+# markdown: kramdown
+
+# pygments: true
+highlighter: rouge
+
+
 sass:
   sass_dir: css
   style:    expanded
