@@ -1,0 +1,28 @@
+###########
+# site.url, site.title
+
+url:   'https://dahlo.github.io/mimmisgjuteri/'
+title: 'Mimmis gjuteri - Café & bar'
+# google_analytics: 'UA-23995298-11'
+
+
+########
+# more settings
+########
+
+sass:
+  sass_dir: css
+  style:    expanded
+  
+# enable emojis
+gems:
+  - jemoji
+
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
