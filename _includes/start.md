@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-lg-2 col-lg-offset-5 text-center">
+    <div class="col-2 col-offset-5 text-center">
 		<img src="img/logo.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
 	</div>
 </div>
