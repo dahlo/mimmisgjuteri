@@ -4,7 +4,7 @@ layout: default
 
 
 <header>
-    <div class="header-content">
+    <div class="header-content" id="start">
         <div class="header-content-inner">
             {% capture start %}{% include start.md %}{% endcapture %}
             {{ start | markdownify }}
@@ -25,7 +25,7 @@ layout: default
     </div>
 </section>
 
-<section id="services">
+<section id="menu">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
