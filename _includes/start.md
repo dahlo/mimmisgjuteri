@@ -1,8 +1,4 @@
-<div class="row">
-    <div class="col-2 col-offset-5 text-center">
-		<img src="img/logo.gif" style='height: 100%; width: 100%; object-fit: contain'/>
-	</div>
-</div>
+<img src="img/logo.gif">
 
 <h1>Your Favorite Source of Free Bootstrap Themes</h1>
 <hr>
