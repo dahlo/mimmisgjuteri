@@ -8,7 +8,6 @@ layout: default
         <div class="header-content-inner">
             {% capture start %}{% include start.md %}{% endcapture %}
             {{ start | markdownify }}
-
         </div>
     </div>
 </header>
