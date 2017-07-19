@@ -2,7 +2,8 @@
 # site.url, site.title
 
 url:   'https://dahlo.github.io/mimmisgjuteri/'
-title: 'Mimmis gjuteri - Café & bar'
+title: 'Mimmis gjuteri'
+tagline: 'Café & bar'
 # google_analytics: 'UA-23995298-11'
 
 
