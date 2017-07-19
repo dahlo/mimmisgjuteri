@@ -14,8 +14,8 @@ layout: default
 
 <section class="bg-primary" id="about">
     <div class="container">
-        {% capture start %}{% include start.md %}{% endcapture %}
-        {{ start | markdownify }}
+        {% capture about %}{% include about.md %}{% endcapture %}
+        {{ about | markdownify }}
     </div>
 </section>
 
