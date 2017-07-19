@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-2 col-offset-5 text-center">
-		<img src="img/logo.jpg" style='height: 100%; width: 100%; object-fit: contain'/>
+		<img src="img/logo.gif" style='height: 100%; width: 100%; object-fit: contain'/>
 	</div>
 </div>
 
