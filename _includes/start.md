@@ -1,4 +1,6 @@
-<img src="img/logo.gif">
+<object data="img/logo.svg" type="image/svg+xml" width="236px" height="238px">
+  <img src="img/logo.gif" />
+</object>
 
 <h1>Your Favorite Source of Free Bootstrap Themes</h1>
 <hr>
