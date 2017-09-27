@@ -25,7 +25,7 @@ a {
   transition: all 0.35s;
   color: #7d7d7d;
 }
-a.bg-primary {
+a.bg-dark {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
