@@ -49,7 +49,7 @@ p {
   background-color: #222222;
   color: white;
 }
-.bg-dark .a {
+.bg-dark .a>link {
   color: #fff;
 }
 .text-faded {
